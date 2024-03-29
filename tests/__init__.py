@@ -1,0 +1,2 @@
+from tests.game_conftest import prepare_image
+from tests.game_conftest import prepare_text_file
